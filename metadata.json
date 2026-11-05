@@ -1,0 +1,6 @@
+{
+  "name": "Semáforo Inteligente Inclusivo - Colégio Reni",
+  "description": "Plataforma interativa, simulador e central de controle/demonstração do Semáforo Inteligente Inclusivo (Colégio Estadual Prof. Reni Correia Gamper).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
